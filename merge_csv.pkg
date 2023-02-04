@@ -4,10 +4,6 @@ d Carlo Schwarz, Bocconi University.
 d Do-files to directly merge and append csv and Excel files.
 
 f merge_csv.ado
-f merge_csv.sthlp
 f merge_excel.ado
-f merge_excel.sthlp
 f append_csv.ado
-f append_csv.sthlp
 f append_excel.ado
-f append_excel.sthlp

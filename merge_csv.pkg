@@ -1,6 +1,8 @@
 v 3
 d merge_csv. merge-csv-files.
 d Carlo Schwarz, Bocconi University.
+d Do-files to directly merge and append csv and Excel files.
+
 f merge_csv.ado
 f merge_csv.sthlp
 f merge_excel.ado

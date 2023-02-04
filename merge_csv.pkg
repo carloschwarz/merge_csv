@@ -1,5 +1,5 @@
 v 3
-d merge_csv. merge csv files.
+d merge_csv. merge-csv-files.
 d Carlo Schwarz, Bocconi University.
 f merge_csv.ado
 f merge_csv.sthlp
